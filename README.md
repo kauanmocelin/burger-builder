@@ -4,6 +4,10 @@ A burger builder application with features to customize your burger.
 
 This project was developed to learn about React technology.
 
+### Prerequisites
+
+Will be necessary to create an account in Firebase and add your API KEY to .env file
+
 ### Installing
 
 Install node depencies
